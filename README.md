@@ -80,7 +80,7 @@ npm run build
 - JavaScript (ES6+)
 - Vite - Fast development server and bundler
 
-## 👨‍💻 Author
+## Author
 
 **Priyam Prabhat**<br>
 Computer Science Student | Web Development | Cybersecurity
